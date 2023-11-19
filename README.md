@@ -1,10 +1,10 @@
 <div align = "left">
     Hello, I am Pulsar. Self taught js/ts, c/c++ developer.
-I reffer myself as middle-experienced frontend developer.
+I reffer myself as middle-experienced frontend developer.<br><br>
 
-You can contact me at:
-    1. My email [0xffabc@gmail.com](<mailto:0xffabc@gmail.com>)
-    2. My [discord server](<https://t.ly/urobI>)
+You can contact me at:<br>
+    1. My email [0xffabc@gmail.com](<mailto:0xffabc@gmail.com>)<br>
+    2. My [discord server](<https://t.ly/urobI>)<br>
 I'm a friendly and helpful person, until you will annoy me 😉
 </div>
 <!--
