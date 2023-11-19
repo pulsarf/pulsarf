@@ -1,10 +1,12 @@
-Hello, I am Pulsar. Self taught js/ts, c/c++ developer.
+<div align = "left">
+    Hello, I am Pulsar. Self taught js/ts, c/c++ developer.
 I reffer myself as middle-experienced frontend developer.
 
 You can contact me at:
     1. My email [0xffabc@gmail.com](<mailto:0xffabc@gmail.com>)
     2. My [discord server](<https://t.ly/urobI>)
 I'm a friendly and helpful person, until you will annoy me 😉
+</div>
 <!--
 **0xffabc/0xffabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
