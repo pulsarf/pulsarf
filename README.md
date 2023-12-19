@@ -1,5 +1,5 @@
 <div align = "left">
-    Hello, I am Pulsar. Self taught js/ts, c/c++ developer.
+    Hello, I am 0xffabc, Self taught js/ts, c/c++ developer.
 I reffer myself as middle-experienced frontend developer.<br><br>
 
 You can contact me at:<br>
