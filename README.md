@@ -5,7 +5,7 @@ I reffer myself as middle-experienced frontend developer.<br><br>
 You can contact me at:<br>
     1. My email [0xffabc@gmail.com](<mailto:0xffabc@gmail.com>)<br>
     2. My [discord server](<https://t.ly/urobI>)<br>
-I'm a friendly and helpful person, until you will annoy me 😉
+I'm adequate
 </div>
 <!--
 **0xffabc/0xffabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
