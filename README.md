@@ -18,6 +18,9 @@ My greasyfork: [0xffabc](https://greasyfork.org/ru/users/1185687-0xffabc).
 Right now my most powered projects are [EthyrMC](https://github.com/0xffabc/EthyrMC) and [iowm](https://github.com/0xffabc/iowm).
 Both are written in javascript 
 
+![image](https://github.com/0xffabc/iowm/assets/139798156/70f19774-9e85-439a-9cbe-029f7c6acf7f)
+*iowm*
+
 ## More information 
 
 My github stats:
