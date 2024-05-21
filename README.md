@@ -10,8 +10,6 @@ You can contact me at my discord (@0xffabc)
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/1164521370466652180)
 
-My greasyfork: [0xffabc](https://greasyfork.org/ru/users/1185687-0xffabc).
-
 ## Projects I'm working on
 
 Right now my most powered projects are [EthyrMC](https://github.com/0xffabc/EthyrMC) and [iowm](https://github.com/0xffabc/iowm).
