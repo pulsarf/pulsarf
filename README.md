@@ -21,5 +21,5 @@ You can contact me at my discord (@0xffabc)
 Right now my most powered projects are [EthyrMC](https://github.com/0xffabc/EthyrMC) and [iowm](https://github.com/0xffabc/iowm).
 Both are written in javascript 
 
-![image](https://github.com/0xffabc/iowm/assets/139798156/70f19774-9e85-439a-9cbe-029f7c6acf7f)
+![image](https://github.com/0xffabc/0xffabc/assets/139798156/383290ec-651f-4a48-8f04-7b8ca1a50f14)
 ![image](https://github.com/0xffabc/0xffabc/assets/139798156/48ae2dad-c6e7-443a-a37e-a5adfeb95d5b)
