@@ -6,7 +6,5 @@
 
 You can contact me at my discord (@0xffabc)
 
-![Discord Presence](https://lanyard.cnrad.dev/api/1164521370466652180)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=0xffabc&show_icons=true&theme=gruvbox)
 ![Stats2](https://github-readme-stats.vercel.app/api/top-langs?username=0xffabc&show_icons=true&theme=gruvbox)
