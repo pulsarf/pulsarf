@@ -4,7 +4,7 @@
 
 ## Contact me
 
-You can contact me at my discord (@0xffabc)
+You can contact me at my discord (@sagilith)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=0xffabc&show_icons=true&theme=gruvbox)
-![Stats2](https://github-readme-stats.vercel.app/api/top-langs?username=0xffabc&show_icons=true&theme=gruvbox)
+![Stats](https://github-readme-stats.vercel.app/api?username=sagilith&show_icons=true&theme=gruvbox)
+![Stats2](https://github-readme-stats.vercel.app/api/top-langs?username=sagilith&show_icons=true&theme=gruvbox)
