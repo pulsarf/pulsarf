@@ -14,3 +14,7 @@ I go well with Rust, j***script and typescript. Currently learning kotlin
     <td> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagilith&show_icons=true&theme=tokyonight"> </td>
   </tr>
 </table>
+
+## Alive status
+
+I am alive as for 21.07.2025
