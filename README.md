@@ -17,4 +17,4 @@ I go well with Rust, j***script and typescript. Currently learning kotlin
 
 ## Alive status
 
-I am alive as for 21.08.2025.
+I am alive as for 27.08.2025.
