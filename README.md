@@ -1,9 +1,28 @@
 ## Hello
-I am Sagilith, **AND I HATE VIBE CODERS**
+I am Sagilith
 
 ![i](https://komarev.com/ghpvc/?username=pulsarf&color=blue&style=for-the-badge)
 
-I go well with Rust, j***script and typescript. Currently learning kotlin
+## Technical stack
+
+- Javascript/typescript:
+- 
+  Runtimes: node.js, bun
+  
+  Libraries: express, uWebSockets.js, electron, vue.js
+  
+  Builders: webpack, rspack, vite
+- Rust:
+    Async runtime: tokio
+  
+    HTTP clients/servers: reqwest, hyper, curl-sys, tungstenite
+  
+    GUI: tauri, imgui-rs, gtk4
+  
+    Misc: wasm-bindgen, wasm-pack, rspack
+  
+- Kotlin (currently learning)
+    Fabric
 
 ![i](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) ![i](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) ![i](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
@@ -17,6 +36,8 @@ I go well with Rust, j***script and typescript. Currently learning kotlin
 
 ## Alive status
 
+I am alive as for 21.09.2025.
 
+## Contact me
 
-I am alive as for 11.09.2025.
+[Email](<mailto:sagilith@disroot.org>)
