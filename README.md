@@ -4,11 +4,9 @@
 <table>
   <tr>
     <td> 
+
+      
 ### Pulsar (dies irae 2026) (tritone interval lover) (ohio)
-
-
-### no way café del Mar reference }:-)
-
 
 ![i](https://komarev.com/ghpvc/?username=pulsarf&color=blue&style=for-the-badge)
 
