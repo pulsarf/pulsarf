@@ -1,6 +1,3 @@
-## Hello
-
-## Stats zone 
 <table>
   <tr>
     <td> 
