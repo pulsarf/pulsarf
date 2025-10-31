@@ -15,7 +15,10 @@ If you wish to contact me, there are only 2 correct places to reach me:
 - discord (@plsar)
 - delta chat (z6ywpyu3i@nine.testrun.org)
     </td>
-    <td> Proof of my hypocriticy: <br> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pulsarf&show_icons=true&theme=tokyonight"> </td>
+    <td> Proof of my hypocriticy: 
+    ![Stats dark](https://github-readme-stats.vercel.app/api?username=pulsarf&show_icons=true&theme=dark#gh-dark-mode-only)
+![Stats light](https://github-readme-stats.vercel.app/api?username=pulsarf&show_icons=true&theme=default#gh-light-mode-only)
+    </td>
   </tr>
 </table>
 
