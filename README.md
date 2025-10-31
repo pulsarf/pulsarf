@@ -17,7 +17,6 @@ If you wish to contact me, there are only 2 correct places to reach me:
     </td>
     <td> Proof of my hypocriticy: 
 ![Stats dark](https://github-readme-stats.vercel.app/api?username=pulsarf&show_icons=true&theme=dark&layout=pie)
-
     </td>
   </tr>
 </table>
