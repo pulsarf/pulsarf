@@ -20,7 +20,7 @@ If you wish to contact me, there are only 2 correct places to reach me:
 - discord (@plsar)
 - delta chat (z6ywpyu3i@nine.testrun.org)
     </td>
-    <td> Proof of my hypocriticy: 
+    <td>
 ![i](https://github-readme-stats.vercel.app/api/top-langs?username=pulsarf&show_icons=true&theme=tokyonight&layout=pie)
     </td>
   </tr>
