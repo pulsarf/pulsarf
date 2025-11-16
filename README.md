@@ -1,20 +1,10 @@
 ## Greetings
 
-I'm the absolute opposite of curated social media personas and hypocritical cliché self descriptions
-
-"I'm a passionate fullstack developer from Ohio" ~ ts ain't typescript generics bro 🥀
-
-Salute to the interviewers watching this 
-
 <hr>
 
 <table>
   <tr>
     <td> 
-
-      
-### Pulsar (dies irae 2026) (tritone interval lover) (ohio)
-
 ![i](https://komarev.com/ghpvc/?username=pulsarf&color=blue&style=for-the-badge)
 
 ![i](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) ![i](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) ![i](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
