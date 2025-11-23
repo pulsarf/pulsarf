@@ -12,10 +12,6 @@
 
 Rust • TypeScript • Kotlin • tokio • futures • tauri • gtk-rs • wasm/node-bindgen • hyper • clap • regex • actix-web • protobuf • rustls • log • vue.js • lodash • ktor
 
-Currently learning async-imap, email, serenity, rspotify, three.js
-
-Head down to my pinned repos - there are lots of things to show
-
 If you wish to contact me, there are only 2 correct places to reach me:
 - discord (@plsar)
 - delta chat (z6ywpyu3i@nine.testrun.org)
