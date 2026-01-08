@@ -15,15 +15,3 @@ Currently learning elixir and working on different apps for myself
 If you wish to contact me, there are only 2 correct places to reach me:
 - discord (@plsar)
 - delta chat (z6ywpyu3i@nine.testrun.org)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pulsarf&layout=compact&theme=onedark)
-
-## Alive status
-
-<img width="846" height="414" alt="image" src="https://github.com/user-attachments/assets/570d9ace-1c3f-4a17-a6f3-d418c3173b13" />
-
-I am alive as for 8.01.2026.
-
-## Contact me
-
-[Email](<mailto:sagilith@disroot.org>)
