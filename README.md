@@ -12,7 +12,7 @@ Decent with rust, typescript, kotlin
 Currently learning elixir and working on different apps for myself
 
 If you wish to contact me, there are only 2 correct places to reach me:
-- discord (@plsar)
+- discord (@0xffabc)
 - delta chat (z6ywpyu3i@nine.testrun.org)
 
 ## Gold projects
